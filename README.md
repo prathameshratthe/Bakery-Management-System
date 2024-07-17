@@ -6,7 +6,7 @@ The Bakery Order Management System is a simple command-line application designed
 
 ## Features
 
-- **Add Order**: Add a new order by providing customer name, item ordered, quantity, and the order date is automatically set to the current date.
+- **Add Order**: Add a new order by providing the customer name, item ordered, quantity, and the order date is automatically set to the current date.
 - **View Orders**: Display all the orders in a tabular format.
 - **Update Order**: Update an existing order's item and quantity based on the order ID.
 - **Save to Excel**: Save all the orders to an Excel file named `bakery_orders.xlsx`.
@@ -66,7 +66,7 @@ Enter your choice: 2
 0      Prathamesh  Chocolate Cake     2  2024-07-17
 
 Enter your choice: 4
-Orders saved to 'bakery_orders.xlsx'.
+Orders are saved to 'bakery_orders.xlsx'.
 ```
 
 ## License
@@ -74,4 +74,4 @@ Orders saved to 'bakery_orders.xlsx'.
 This project is licensed under the MIT License.
 
 ---
-Created by -@prathameshratthe
+Created by @prathameshratthe
