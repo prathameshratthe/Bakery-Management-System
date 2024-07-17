@@ -72,6 +72,6 @@ Orders saved to 'bakery_orders.xlsx'.
 ## License
 
 This project is licensed under the MIT License.
-Created by @prathameshratthe
 
 ---
+Created by -@prathameshratthe
