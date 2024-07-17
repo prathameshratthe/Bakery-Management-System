@@ -56,7 +56,7 @@ The Bakery Order Management System is a simple command-line application designed
 4. Save to Excel
 5. Exit
 Enter your choice: 1
-Enter customer name: John Doe
+Enter customer name: Prathamesh
 Enter item ordered: Chocolate Cake
 Enter quantity: 2
 Order added successfully!
